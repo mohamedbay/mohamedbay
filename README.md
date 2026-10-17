@@ -1,18 +1,24 @@
-<img align="right" src="assets/portrait.jpg" width="144" alt="Mohamed Bay — alternate portrait with navy background" />
-
 # Mohamed Bay
 
-**Software development · networks · practical business systems**
+**Freelance development · business applications · infrastructure**
 
-This is my secondary development account. My main public account is **[@mohamedkbay](https://github.com/mohamedkbay)**.
+This is my dedicated account for freelance work and collaboration with companies. I use it to keep client delivery and company projects separate from my independent product work.
 
-I build Arabic-first applications and business tools, and work across development, infrastructure and technical problem-solving.
+هذا حسابي المخصص للشغل الحر والتعاون مع الشركات، باش نفصل شغل العملاء والشركات عن مشاريعي الشخصية.
 
-حسابي الثاني للشغل والتطوير. هنا نعرض فكرة بعض المشاريع ودوري فيها؛ السورس والبيانات التشغيلية يبقوا برايفت.
+My main account, **[@mohamedkbay](https://github.com/mohamedkbay)**, covers my independent projects, broader portfolio and professional background.
 
-[Main profile](https://github.com/mohamedkbay) · [Full portfolio](https://github.com/mohamedkbay/portfolio) · [Personal website](https://mohamedbay.ly)
+[Main account](https://github.com/mohamedkbay) · [Project portfolio](https://github.com/mohamedkbay/portfolio) · [Professional website](https://mohamedbay.ly)
 
-<br clear="all" />
+## What I work on
+
+- Web and desktop application development and customization.
+- Business workflows: sales, stock, administration and reporting.
+- Technical troubleshooting, integrations and infrastructure support.
+
+## Working with companies
+
+I keep client work in its own repositories and project context. This public profile presents selected experience; the working code and company information remain private.
 
 ## Selected project notes
 
@@ -44,6 +50,6 @@ The images above are editorial project covers, not screenshots of customer syste
 
 ## Public work, private implementation
 
-The application repositories remain private. This profile repository contains presentation material only: project notes, original covers and a profile portrait. It contains no application source code, deployment configuration, customer records or credentials.
+The application repositories remain private. This profile repository contains presentation material only: project notes, original covers. It contains no application source code, deployment configuration, customer records or credentials.
 
 The main [portfolio](https://github.com/mohamedkbay/portfolio) also covers UpDent, Glory Platform, Fakkerni, Masajiduna, Nabda and Fawtara.
