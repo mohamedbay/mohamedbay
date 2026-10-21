@@ -8,7 +8,7 @@
 
 ## The product
 
-منظومة لإدارة العيادة، تشمل سير عمل المرضى والزيارات والمواعيد والأطباء والموظفين، مع واجهات للوصفات والفحوصات والتقارير.
+Clinic administration covering patient visits, appointments, doctors and staff, with prescription, laboratory and reporting interfaces.
 
 The application brings clinic administration tasks into a shared Arabic interface.
 

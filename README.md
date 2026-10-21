@@ -4,8 +4,6 @@
 
 This is my dedicated account for freelance work and collaboration with companies. I use it to keep client delivery and company projects separate from my independent product work.
 
-هذا حسابي المخصص للشغل الحر والتعاون مع الشركات، باش نفصل شغل العملاء والشركات عن مشاريعي الشخصية.
-
 My main account, **[@mohamedkbay](https://github.com/mohamedkbay)**, covers my independent projects, broader portfolio and professional background.
 
 [Main account](https://github.com/mohamedkbay) · [Project portfolio](https://github.com/mohamedkbay/portfolio) · [Professional website](https://mohamedbay.ly)
@@ -22,7 +20,7 @@ I keep client work in its own repositories and project context. This public prof
 
 ## Selected project notes
 
-### الخراز · Khirazz POS
+### Khirazz POS
 
 [![Khirazz POS project overview](assets/khirazz-cover.svg)](projects/khirazz.md)
 

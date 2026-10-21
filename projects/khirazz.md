@@ -1,4 +1,4 @@
-# الخراز · Khirazz POS
+# Khirazz POS
 
 **A local-first point of sale for web and Windows.**
 
@@ -7,8 +7,6 @@
 [Back to this account](../README.md) · [Main portfolio](https://github.com/mohamedkbay/portfolio)
 
 ## The product
-
-الخراز يوفّر واجهة نقطة بيع على الويب وبرنامج Windows، مع حفظ محلي للبيانات ومزامنة اختيارية بين الأجهزة عند توفر الاتصال.
 
 The web interface and Electron desktop edition share the application experience. Each device keeps local records; optional synchronization brings connected devices together.
 

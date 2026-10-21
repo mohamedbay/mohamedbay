@@ -8,8 +8,6 @@
 
 ## The product
 
-SouqFlow منظومة نقاط بيع تركز على Windows، وتجمع المبيعات والمخزون والعملاء والتقارير في مساحة عمل واحدة.
-
 The project brings point-of-sale tasks and the surrounding business records into a Windows-oriented workspace.
 
 ## My work
